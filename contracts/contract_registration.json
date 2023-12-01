@@ -194,11 +194,11 @@
             },
             "example": [
                 {
-                    "full_name": "Pedro Caceres",
-                    "email": "test3@example.com",
-                    "user_name": "testuser3",
-                    "password": "badpass",
-                    "confirm_password": "badpass"
+                    "full_name": "Carla Sanchez",
+                    "email": "test1@example.com",
+                    "user_name": "testuser2",
+                    "password": "TestP@ss123",
+                    "confirm_password": "TestP@ss123"
                 }
             ],
             "response": {
@@ -249,8 +249,8 @@
         "example": [
             {
                 "full_name": "Juan Salinas",
-                "email": "test2@example.com",
-                "user_name": "testuser2",
+                "email": "test5@example.com",
+                "user_name": "testuser5",
                 "password": "TestP@ss123",
                 "confirm_password": "TestP@ss123"
             }
