@@ -3,7 +3,7 @@
         "description": "Successful login with valid credentials",
         "request": {
             "method": "POST",
-            "url": "https://31f26148-53be-474d-9a51-fa125946327a.mock.pstmn.io/login",
+            "url": "https://51790c60-29ec-429c-9ce1-5da259f03d0d.mock.pstmn.io/login",
             "headers": {
                 "Content-Type": "application/json"
             },
@@ -34,7 +34,7 @@
         "description": "Attempted login with an incorrect password",
         "request": {
             "method": "POST",
-            "url": "https://31f26148-53be-474d-9a51-fa125946327a.mock.pstmn.io/login",
+            "url": "https://51790c60-29ec-429c-9ce1-5da259f03d0d.mock.pstmn.io/login",
             "headers": {
                 "Content-Type": "application/json"
             },
@@ -66,7 +66,7 @@
         "description": "Attempted login with a non-existent user",
         "request": {
             "method": "POST",
-            "url": "https://31f26148-53be-474d-9a51-fa125946327a.mock.pstmn.io/login",
+            "url": "https://51790c60-29ec-429c-9ce1-5da259f03d0d.mock.pstmn.io/login",
             "headers": {
                 "Content-Type": "application/json"
             },
@@ -98,7 +98,7 @@
         "description": "Attempted login with an invalid user and password",
         "request": {
             "method": "POST",
-            "url": "https://31f26148-53be-474d-9a51-fa125946327a.mock.pstmn.io/login",
+            "url": "https://51790c60-29ec-429c-9ce1-5da259f03d0d.mock.pstmn.io/login",
             "headers": {
                 "Content-Type": "application/json"
             },
