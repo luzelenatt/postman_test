@@ -1,6 +1,6 @@
 {
-    "User Registration": {
-        "description": "User Registration",
+    "Successful User Registration": {
+        "description": "Successful User Registration with valid credentials",
         "request": {
             "method": "POST",
             "url": "https://51790c60-29ec-429c-9ce1-5da259f03d0d.mock.pstmn.io/register",
